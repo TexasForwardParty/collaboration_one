@@ -4,7 +4,8 @@ This is a space to test out a prototype of our accessible policy development pro
 
 Please follow these rules: 
 
-1) You must link to free, clean URLs. For example:  
+1) You must link to free, clean URLs. For example:
+
 WRONG: https://www.wsj.com/finance/investing/investment-portfolios-politics-6d186f91?gaa_at=eafs&gaa_n=ASWzDAiSN-VVUBLqzcgEOEHAP1PESlBRJjGXltrScjC1Ox0i4azNjKCpWFpWSDji8D8%3D&gaa_ts=6858187b&gaa_sig=wAdk2ddNIVian80YS07qOAvpHwHCNAA1jgyEOnhIqRleHTBeG0QZHEnHmCISx2cC-FSfYcYkXuogPVdIItoo2w%3D%3D
 
 Correct: https://archive.ph/qEbPr
