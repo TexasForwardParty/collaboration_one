@@ -18,6 +18,9 @@ If you do not know how to do this, refer to further training documentation in th
 - When you have a disagreement with something that is written, please follow the NG Protocol, as described below. 
 
 ## Neutral Ground Protocol:
+The Neutral Ground protocol creates a safe space for discussion, creating structured, respectful engagement. It follows a general formula of "When (event) happens, we are (impacted in this way), and we need (boundaries, requirements) 
+
+
 Avoid blame-based framing: 
 Instead of: "When farmers pollute our water..."
 Use: "When agricultural runoff enters waterways..."
